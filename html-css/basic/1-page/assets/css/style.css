@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(212, 214, 215);
+    font-family: 'Opens Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#hero {
+    width: 592px;
+    margin: 0 auto 72px ;
+}
+
+img {
+    width: 350px;
+}
+h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    margin-top: 0%;
+    margin-bottom: 50px;
+}
+
+#footer a {
+    margin-right: 28px ;
+}
